@@ -22,7 +22,7 @@ Sistema de Gestão de Eventos e Ingressos — Atividade Prática Avaliativa
 
 ### 1. Clone o repositório e entre na pasta
 ```bash
-git clone <url-do-repositorio>
+git clone <https://github.com/PedroTersiSouza/-passaporte-io.git>
 cd passaporte-io
 ```
 
@@ -91,6 +91,28 @@ Acesse: **http://localhost:8000**
 |---|---|
 | E-mail | `participante@passaporte.io` |
 | Senha | `password` |
+
+---
+
+## 📸 Capturas de Tela
+
+### Cadastro de Usuário
+![Cadastro](docs/03-cadastro.png)
+
+### Vitrine Pública de Eventos
+![Vitrine pública](docs/01-vitrine-publica.png)
+
+### Detalhes do Evento
+![Detalhes do evento](docs/02-detalhes-evento.png)
+
+### Histórico de Inscrições (Meus Ingressos)
+![Meus ingressos](docs/06-meus-ingressos.png)
+
+### Painel do Organizador
+![Painel do organizador](docs/04-painel-organizador.png)
+
+### Criação de Evento
+![Criar evento](docs/05-criar-evento.png)
 
 ---
 
